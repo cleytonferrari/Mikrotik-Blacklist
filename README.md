@@ -28,3 +28,4 @@ Upload to MT and run `/import file-name=install.rsc` in terminal. You still need
 
 ## TODO
  - Add more sources.
+ - https://s3.i02.estaleiro.serpro.gov.br/blocklist/blocklist.txt
